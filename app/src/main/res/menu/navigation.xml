@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_frigidaire"
+        android:icon="@drawable/ic_baseline_dining_24"
+        android:title="@string/title_frigidaire" />
+
+    <item
+        android:id="@+id/navigation_congelateur"
+        android:icon="@drawable/ic_baseline_ac_unit_24"
+        android:title="@string/title_congelateur" />
+
+</menu>

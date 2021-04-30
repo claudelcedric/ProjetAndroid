@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="categories">
+        <item name="legumes">Légumes</item>
+        <item name="viande">Viande et poissons</item>
+        <item name="laitage">Laitage</item>
+        <item name="fromage">Fromage</item>
+        <item name="plats_prepares">Plats préparés</item>
+    </array>
+</resources>

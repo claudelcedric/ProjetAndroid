@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MesFrigos</string>
+    <string name="title_congelateur">Congélateur</string>
+    <string name="title_frigidaire">Frigidaire</string>
+
+    <string name="menu_actualiser">Actualiser</string>
+    <string name="menu_ajout_manuel">Ajouter un produit manuellement</string>
+    <string name="menu_scan">Scanner un produit</string>
+
+    //page_ajout_firigidaire
+    <string name="nom">Nom</string>
+    <string name="categorie">Catégorie</string>
+    <string name="date">Date</string>
+    <string name="add_barcode">Scan code-barres</string>
+
+    //boutons_ajout_firigidaire
+    <string name="select_date">Selectionner une date</string>
+    <string name="valider">VALIDER</string>
+    <string name="annuler">ANNULER</string>
+
+    //catégories frigidaire
+    <string name="select_categorie">Sélectionner une catégorie</string>
+
+    //pop-up dialogue options item
+    <string name="modifier">Modifier</string>
+    <string name="effacer">Effacer</string>
+
+    //Message "En construction..."
+    <string name="En_construction">En construction...</string>
+
+
+</resources>
